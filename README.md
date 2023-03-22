@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.png" alt="logo" width="300"  height="auto" />
+  <img src="logo.png" alt="logo" width="500"  height="auto" />
   <br/>
 
   <h3><b>README</b></h3>
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Repo Setup Project] <a name="about-project"></a>
+# 📖 `Hello Microverse Repo Setup Project` <a name="about-project"></a>
 
 
 
@@ -91,9 +91,9 @@ After you're finished please remove all the comments and instructions!
 
 > This project catered to understand how to create a repo. Create branches with different base branches. Understand the concept of version control. Follow GitHub flow. Open pull requests in GitHub. Write descriptive, easy to understand commit messages. Write short, detailed, easy to understand descriptions of pull requests. Write a descriptive and easy to understand README in business English for every project submitted. Demonstrate an ability to submit a project for code review.
 
-- **[Gitflow]**
-- **[Linters]**
-- **[Pull Requests]**
+- **Gitflow**
+- **Linters**
+- **Pull Requests**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,7 +115,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need, basic Github and Linter application knowledge.
 
 <!--
 Example command:
@@ -130,6 +130,7 @@ Example command:
 Clone this repository to your desired folder:
 
 `cd my-folder`
+
 `git clone git@github.com:myaccount/my-project.git`
 
 <!--
@@ -143,8 +144,6 @@ Example commands:
 
 ### Install
 
-Install this project with:
-
 There is nothing to install to use this project. Just need to clone and read the documentation.
 <!--
 Example command:
@@ -157,7 +156,7 @@ Example command:
 
 ### Usage
 
-Read the steps thoroughly to understand the workflow:
+Read the steps thoroughly to understand the workflow.
 
 <!--
 Example command:
@@ -169,7 +168,7 @@ Example command:
 
 ### Run tests
 
-There are no executables:
+There are no executables. The Github actions tests would run automatically while opening a Pull Request.
 
 <!--
 Example command:
@@ -181,7 +180,7 @@ Example command:
 
 ### Deployment
 
-The repo is deployed in github:
+The repo is deployed in github.
 
 <!--
 Example:
@@ -210,9 +209,9 @@ Example:
 
 > I wish to add the following few features.
 
-- [ ] **[Responsive HTML Page]**
-- [ ] **[Styling the page]**
-- [ ] **[Add Flex]**
+- [ ] **Fully Functional Web Page**
+- [ ] **CSS Styling**
+- [ ] **Add Flex**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -248,13 +247,13 @@ I would like to thank the Microverse team to assist me learn the Gitflow and use
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 
-- **[What to do when Pull Request Github Actions fail?]**
+- **What to do when Pull Request Github Actions fail?**
 
-  - [You need to check the `linters.yml` file for correct versions.]
+  - You need to check the `linters.yml` file for correct versions.
 
-- **[What is the process to open Pull Request?]**
+- **What is the process to open Pull Request?**
 
-  - [The process to open a Pull Request is to first make changes in the features branch and not the main branch. Commit and push changes to the feature branch to get approved and then merge it to the main branch.]
+  - The process to open a Pull Request is to first make changes in the features branch and not the main branch. Commit and push changes to the feature branch to get approved and then merge it to the main branch.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
