@@ -115,7 +115,9 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need, basic Github and Linter application knowledge.
+In order to run this project you need, basic Github and Linter application knowledge. Run the below command
+
+`npm init -y`
 
 <!--
 Example command:
@@ -156,7 +158,9 @@ Example command:
 
 ### Usage
 
-Read the steps thoroughly to understand the workflow.
+Read the steps thoroughly to understand the workflow. To run the project, execute the following command
+
+`npm start`
 
 <!--
 Example command:
@@ -168,7 +172,7 @@ Example command:
 
 ### Run tests
 
-There are no executables. The Github actions tests would run automatically while opening a Pull Request.
+The Github actions tests would run automatically while opening a Pull Request.
 
 <!--
 Example command:
@@ -211,7 +215,7 @@ Example:
 
 - [ ] **Fully Functional Web Page**
 - [ ] **CSS Styling**
-- [ ] **Add Flex**
+- [ ] **Flex box**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
