@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="logo.png" alt="logo" width="500"  height="auto" />
+  <img src="logo.png" alt="logo" width="1000"  height="auto" />
   <br/>
 
   <h3><b>README</b></h3>
@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 
 
-**[Hello Microverse Repo Setup Project]** This is Day 2 project for learning Git workflows. I aim to follow the instructions as mentioned in the task board and set up this repo.
+**Hello Microverse Repo Setup Project** is Day 2 project for learning Git workflows. I aim to follow the instructions as mentioned in the task board and set up this repo.
 
 ## 🛠 Built With <a name="built-with"></a>
 
